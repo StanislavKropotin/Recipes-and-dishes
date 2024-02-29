@@ -38,6 +38,7 @@ ReDoc UI:
 http://127.0.0.1:8000/api/redoc/
 
 In the console, create a second terminal (window) and use the cd command to go to the Frontend folder and enter the command to restore the necessary modules:
+
 npm install
 
 Let's start the server:
