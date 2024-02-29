@@ -42,5 +42,6 @@ In the console, create a second terminal (window) and use the cd command to go t
 npm install
 
 Let's start the server:
+
 npm start
 
